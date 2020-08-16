@@ -5,12 +5,11 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
 /**
- * Ejercicio 78:  Ordena nombre de personas
+ * Ejercicio 78: Ordena nombre de personas
  * 
  * @author J Oscar Rosas
  * */
@@ -33,4 +32,5 @@ public class OrdenaNombresPersonas {
 			System.out.println(e.getMessage());
 		}
 	} // end main
+	
 } // end OrdenaNombresPersonas
